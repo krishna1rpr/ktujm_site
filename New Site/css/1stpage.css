@@ -1,0 +1,42 @@
+
+.vc-photo{
+    width: 100px;
+    height: 120px;
+    float: left;
+}
+.vc-photo img{
+    width: 100%;
+    height: auto;
+    
+}
+
+#vc{
+    width: 40%;
+    padding: 0rem;
+    margin-left: 10%;
+    margin-top: 10rem;
+}
+
+#vc-heading{
+    height: 40px;
+    background-color: brown;
+}
+/* .card-body{
+    width: 30%;
+} */
+#vc-content{
+    padding: 1rem;
+}
+
+#card-1{
+    margin-top: 10rem;
+    height: 20rem;
+}
+
+#card-2{
+    margin-top: 10rem;
+}
+
+#card-3{
+    margin-top: 2rem;
+}

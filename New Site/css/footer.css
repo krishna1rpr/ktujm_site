@@ -1,0 +1,24 @@
+
+.foot{
+    background-color: #574a94;
+    height: 400px;
+}
+
+
+
+
+.logo{
+    width: 200px;
+    height: 200px;
+    margin: 2rem;
+    float: left;
+}
+
+.logo img{
+    width: 100%;
+    height: auto;
+}
+
+#quick-link{
+    padding: 1rem;
+}

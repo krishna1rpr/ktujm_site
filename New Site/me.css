@@ -1,0 +1,121 @@
+#vacant-head{
+    height: 43px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#head{
+    margin-top: 0px;
+    height: 50px;
+    margin-bottom: 0rem;
+    /* background-color: #7b7d73;
+    text-decoration: whitesmoke; */
+}
+#kt-heading{
+    position: relative;
+    bottom: 3rem;
+}
+
+nav{
+    padding: 0rem;
+    margin-top: 0rem;
+    padding-top: 0rem;
+}
+
+#top-nav{
+    font-weight: bold;
+}
+:hover #top-nav{
+    font-style: italic;
+}
+
+#carouselExampleIndicators{
+    margin-top: 0rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.carousel-inner{
+    margin-top: 2rem;
+    height: 600px;
+    
+}
+
+.vc-photo{
+    width: 100px;
+    height: 120px;
+    float: left;
+}
+.vc-photo img{
+    width: 100%;
+    height: auto;
+    
+}
+
+#vc{
+    width: 40%;
+    padding: 0rem;
+    margin-left: 10%;
+    margin-top: 10rem;
+}
+
+#vc-heading{
+    height: 40px;
+    background-color: brown;
+}
+/* .card-body{
+    width: 30%;
+} */
+#vc-content{
+    padding: 1rem;
+}
+
+#card-1{
+    margin-top: 10rem;
+    height: 20rem;
+}
+
+#card-2{
+    margin-top: 10rem;
+}
+
+#card-3{
+    margin-top: 2rem;
+}
+
+.foot{
+    background-color: chartreuse;
+    height: 400px;
+}
+
+
+
+
+.logo{
+    width: 200px;
+    height: 200px;
+    margin: 2rem;
+    float: left;
+}
+
+.logo img{
+    width: 100%;
+    height: auto;
+}
+
+#quick-link{
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
